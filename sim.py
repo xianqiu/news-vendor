@@ -3,8 +3,8 @@
 2. 需要请自行下载安装：manim.
     地址: https://github.com/3b1b/manim
 3. 输入命令生成视频.
-    完整视频（含问题背景）: manim inv.py FullStoryScene -p
-    模拟视频: manim inv.py SimScene -p
+    完整视频（含问题背景）: manim sim.py FullStoryScene -p
+    模拟视频: manim sim.py SimScene -p
 """
 
 from manimlib.imports import *
